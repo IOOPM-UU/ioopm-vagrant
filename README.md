@@ -23,7 +23,7 @@ To install, execute:
 
 Execute these commands to start a virtual machine:
 
-    cd vagrant
+    cd ~/ioopm-vagrant/vagrant
     vagrant up
     vagrant ssh
     
