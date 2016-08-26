@@ -12,7 +12,7 @@ sudo apt-get install -y emacs24-nox
 # emacs --insecure -f kill-emacs
 
 #### programming tools
-sudo apt-get install -y git build-essential gdb gdb
+sudo apt-get install -y git build-essential gdb gdb clang lldb valgrind libcunit1 libcunit1-dev libcunit1-doc
 sudo apt-get install -y openjdk-9-jdk-headless
 sudo apt-get install -y ack-grep
 
