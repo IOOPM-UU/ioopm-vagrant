@@ -12,6 +12,7 @@ You'll need to have these installed:
  - vagrant 1.8.x ([Download page](https://www.vagrantup.com/downloads.html))
 
 **WARNING: if you have vagrant or VirtualBox installed already, double check the version numbers!**
+
 Use `vagrant --version` and `VBoxManage --version` to check.
  
 ### Install
