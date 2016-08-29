@@ -8,8 +8,8 @@ but is preconfigured to provide tools needed in [IOOPM](http://wrigstad.com/ioop
 
 You'll need to have these installed:
 
- - VirtualBox 5.1.x
- - vagrant 1.8.x
+ - VirtualBox 5.1.x ([Download page](https://www.virtualbox.org/wiki/Downloads))
+ - vagrant 1.8.x ([Download page](https://www.vagrantup.com/downloads.html))
  
 ### Install
 
