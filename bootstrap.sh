@@ -20,4 +20,6 @@ sudo apt-get install -y git build-essential gdb gdb clang lldb valgrind libcunit
 sudo apt-get install -y openjdk-9-jdk-headless
 sudo apt-get install -y ack-grep
 
+sudo apt-get install -y afl
+
 touch ~/done
