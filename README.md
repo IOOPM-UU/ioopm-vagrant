@@ -30,7 +30,7 @@ To install, execute:
 Execute these commands to start a virtual machine and log into it:
 
     cd ~/ioopm-vagrant
-    vagrant up
+    vagrant up # this will take a few minutes the first time
     vagrant ssh
     # exit using Ctrl-D
 
