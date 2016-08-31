@@ -22,7 +22,7 @@ To install, execute:
 
     cd
     mkdir synced_data
-    git clone git@github.com:kaeluka/ioopm-vagrant.git
+    git clone https://github.com/IOOPM-UU/ioopm-vagrant.git
     vagrant plugin install vagrant-vbguest
 
 ### Run
